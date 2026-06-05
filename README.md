@@ -220,36 +220,3 @@ Model Evaluation
 Feature Importance Analysis
    ↓
 Comparative Results
-```
-
-## 📝 Notes
-
-- **Dataset Path**: Currently configured with local file paths (modify as needed)
-- **Reproducibility**: Random seed set to 123 for consistent results
-- **Scalability**: Can be adapted for larger datasets
-- **Extension**: Easy to add additional models or features
-
-## 👤 Author
-
-**Dulakshi Guruge** (DulakshiGuruge2001)
-
-## 📄 License
-
-This project is open source and available for educational and research purposes.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to:
-- Report issues
-- Suggest enhancements
-- Submit pull requests
-- Improve documentation
-
-## 📞 Contact & Support
-
-For questions or issues related to this project, please create an issue in the repository.
-
----
-
-**Last Updated**: June 2026  
-**Status**: Active Development
